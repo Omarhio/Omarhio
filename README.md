@@ -16,7 +16,7 @@ I'm a passionate developer. I specialize in web development with a focus on crea
 ## 📈 GitHub Stats
 
 ![Omarhio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omarhio&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarhio&layout=compact&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarhio&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
