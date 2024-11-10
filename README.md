@@ -16,13 +16,12 @@ I'm a passionate developer. I specialize in web development with a focus on crea
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omarhio&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarhio&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omarhio&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 ---
 
 ## 🌱 Currently Learning
@@ -35,12 +34,23 @@ I'm a passionate developer. I specialize in web development with a focus on crea
 
 ## 📫 How to Reach Me
 
-- Email: [big-dz@hotmail.fr](mailto:omarhio@example.com)
+- Email: [big-dz@hotmail.fr](mailto:big-dz@hotmail.fr)
 
 ---
 
-## 💡 Goals
-
-- Become proficient in **full-stack development**.
-- Contribute to more **open-source** projects.
-- Grow towards becoming a **Senior Developer**.
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
