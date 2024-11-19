@@ -1,6 +1,6 @@
 <h2 align="center">👋 Welcome, I'm Omarhio</h2>
 <p align="center">
-![Cyberpunk GIF](./smoke.gif)
+<img src="https://media.tenor.com/ZQ90oSSbJskAAAAi/smoking-falco.gif" alt="Cyberpunk GIF" width="250" />
 </p>
 <p align="center">
 I'm a passionate developer. I specialize in web development with a focus on creating efficient, scalable applications using modern technologies. I continuously learn and contribute to open-source projects to sharpen my skills.
