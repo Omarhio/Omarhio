@@ -1,20 +1,23 @@
-# 👋 Welcome, I'm Omarhio
-
+<h2 align="center">👋 Welcome, I'm Omarhio</h2>
+<p align="center">
+![Cyberpunk GIF](https://raw.githubusercontent.com/omarhio/omarhio/main/smoke.gif)
+</p>
+<p align="center">
 I'm a passionate developer. I specialize in web development with a focus on creating efficient, scalable applications using modern technologies. I continuously learn and contribute to open-source projects to sharpen my skills.
+</p>
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarhio&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
@@ -26,19 +29,16 @@ I'm a passionate developer. I specialize in web development with a focus on crea
 
 ---
 
-## 🌱 Currently Learning
+<h2 align="center">📫 How to Reach Me</h2>
 
-- **Next.js**: Improving web performance and SEO
-- **Web development best practices**: Writing clean and maintainable code
-- **Backend development**: Enhancing my knowledge in Node.js and RESTful APIs
-
----
-
-## 📫 How to Reach Me
-
-[![Outlook](  https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:big-dz@hotmail.fr) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/omarhio)
-
----
+<p align="center">
+  <a href="mailto:big-dz@hotmail.fr">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a>
+  <a href="https://discord.com/users/omarhio">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 <div align="center">
 <picture>
