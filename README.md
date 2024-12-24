@@ -2,9 +2,7 @@
 <p align="center">
 <img src="https://media.tenor.com/ZQ90oSSbJskAAAAi/smoking-falco.gif" alt="Cyberpunk GIF" width="250" />
 </p>
-<p align="center">
-I'm a passionate developer. I specialize in web development with a focus on creating efficient, scalable applications using modern technologies. I continuously learn and contribute to open-source projects to sharpen my skills.
-</p>
+
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
 <p align="center">
@@ -17,8 +15,7 @@ I'm a passionate developer. I specialize in web development with a focus on crea
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
-
+<h2 align="center">📈 GitHub Stats <img src="https://www.codewars.com/users/Omarhio/badges/micro" alt="CodeWars" /></h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarhio&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </p>
