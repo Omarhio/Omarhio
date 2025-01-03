@@ -1,4 +1,9 @@
 <h2 align="center">👋 Welcome, I'm Omarhio</h2>
+<div align="center">
+  <a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md">
+    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="FreePalestine" />
+  </a>
+</div>
 <p align="center">
 <img src="https://media.tenor.com/ZQ90oSSbJskAAAAi/smoking-falco.gif" alt="Cyberpunk GIF" width="250" />
 </p>
